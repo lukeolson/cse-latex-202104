@@ -1,0 +1,9 @@
+name: cse-latex
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - numpy
+  - matplotlib
+  - jupyterlab
