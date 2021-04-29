@@ -11,3 +11,4 @@ texlive-science
 texlive-xetex
 poppler-utils
 latexmk
+chktex
