@@ -12,3 +12,4 @@ texlive-xetex
 poppler-utils
 latexmk
 chktex
+cm-super
